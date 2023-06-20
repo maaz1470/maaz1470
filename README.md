@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahat Hossain</h1>
 <h3 align="center">A Professional Web Designer And Web Developer From Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maaz1470&label=Profile%20views&color=0e75b6&style=flat" alt="maaz1470" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maaz1470" alt="maaz1470" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rahat1470" target="blank"><img src="https://img.shields.io/twitter/follow/rahat1470?logo=twitter&style=for-the-badge" alt="rahat1470" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce](https://mdrahathossain.com)
 
 - 🌱 I’m currently learning **Java, C, C++, Python, Data Science**
