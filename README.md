@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mdrahathossain.com](https://mdrahathossain.com)
 
-- 💬 Ask me about **Html, Css, JavaScript, PHP, Laravel, ReactJS, Express JS, Node JS, MongoDB, Next JS**
+- 💬 Ask me about **Html, Css, JavaScript, PHP, Laravel, ReactJS, Express JS, Node JS, MongoDB**
 
 - 📫 How to reach me **webmaaz@gmail.com**
 
